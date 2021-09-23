@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.dark.css';
+
+/*scrollbar*/
+::-webkit-scrollbar {
+    background: none;
+    display: none;
+}
+
+::-webkit-scrollbar-thumb {
+    background: none;
+}
